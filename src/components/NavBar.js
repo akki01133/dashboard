@@ -11,9 +11,9 @@ const NavBar = () => {
   const theme = useTheme();
 
   const iconStyle = {
-    color: theme.palette.common.grey, // White color
+    color: theme.palette.common.grey, 
     '&:hover': {
-      color: theme.palette.primary.main, // Blue color on hover
+      color: theme.palette.primary.main, 
     },
   };
 

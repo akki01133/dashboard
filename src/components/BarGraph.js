@@ -140,13 +140,13 @@ const BarGraph = () => {
             x: {
                 
               grid: {
-                display: false, // Hide the x-axis grid lines
+                display: false, 
               },
             },
             y: {
                 display:false,
               grid: {
-                display: false, // Hide the y-axis grid lines
+                display: false,
               },
             },
           },

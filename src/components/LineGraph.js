@@ -110,7 +110,7 @@ const LineGraph = () => {
                 color: 'grey',
               },
                 grid: {
-                display: false, // Hide the x-axis grid lines
+                display: false, 
               },
             },
             y: {
@@ -118,7 +118,7 @@ const LineGraph = () => {
                 color: 'grey',
               },
                 grid: {
-                display: false, // Hide the x-axis grid lines
+                display: false, 
               },
             },
           },
